@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+	background-color: limegreen;
+}
+
+li {
+  display: inline;
+  align-content: center;
+}
